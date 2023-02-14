@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     
-    "start": "json-server --watch db.json --port 80 -H 0.0.0.0"
+    "start": "json-server --watch db.json --port 443 -H 0.0.0.0"
   },
   "repository": {
     "type": "git",
