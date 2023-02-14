@@ -1,0 +1,23 @@
+{
+  "name": "testdb",
+  "version": "1.0.0",
+  "description": "test db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 80 -H 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvaravind/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvaravind/json-server/issues"
+  },
+  "homepage": "https://github.com/anvaravind/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
